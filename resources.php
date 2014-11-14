@@ -20,6 +20,7 @@
 <link href="css/update.css" rel="stylesheet" type="text/css" />
 <?php include("i_javascripts.php"); ?>
 
+<!Changed in dev.moneytransferhelp.com on 13-Nov-14>
 <!Google Analytics Tracking Code>
 <script type="text/javascript">
 
